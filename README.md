@@ -24,4 +24,4 @@ Then we introduced interrupt in switch1 to have the following functionalities:
 After that, we used the axi_timer0 to generate an interrupt every 30 seconds and perform the SOS blinking.
 
 The main() function of this code is inside the helloworld.c file.
-The other user defined functions can be found in gpio_control.c and gpio_control.h files. 
+The other user defined functions can be found in gpio_control.c and timer_control.c files. 
